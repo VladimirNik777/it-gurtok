@@ -43,7 +43,7 @@ header > h1 {
     margin-bottom: 0;
 }
 
-.footer {
+footer > div {
     text-align: center;
     justify-items: center;
     background-color: lightgray;
