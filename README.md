@@ -1,1 +1,1 @@
-# it-gurtok
+# IT-Gurtok
