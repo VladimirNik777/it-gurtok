@@ -21,7 +21,7 @@ header > h1 {
 
 .activity {
     border: 1px solid darkgray;
-    margin: 20px;
+    margin: 10px;
     
 }
 
@@ -41,4 +41,9 @@ header > h1 {
 
 .topic-header {
     margin-bottom: 0;
+}
+
+.footer {
+    text-align: center;
+    background-color: lightgray;
 }
