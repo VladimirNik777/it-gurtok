@@ -45,5 +45,6 @@ header > h1 {
 
 .footer {
     text-align: center;
+    justify-items: center;
     background-color: lightgray;
 }
