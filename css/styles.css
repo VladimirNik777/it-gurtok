@@ -1,0 +1,44 @@
+header {
+    background-color: black;
+}
+
+header > h1 {
+    color: azure;
+    margin: 10px;
+    padding: 10px;
+}
+
+.activities {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.activities {
+    display: flex;
+    justify-content: center;
+}
+
+.activity {
+    border: 1px solid darkgray;
+    margin: 20px;
+    
+}
+
+.topic {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 200px;
+    max-width: 200px;
+    padding: 20px;
+}
+
+.skills {
+    text-align: left;
+}
+
+.topic-header {
+    margin-bottom: 0;
+}
